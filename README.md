@@ -22,9 +22,7 @@ Social bias in generative AI can manifest not only as performance disparities bu
 .
 ├── eval                        
 │   ├── graphs                  # all the graphs for the paper
-│   ├── cat_graphs_horiz.py     # *OLD* RAF graphs with horizontal alignment
-│   ├── cat_graphs.py           # *OLD* RAF graphs
-│   ├── cat_side_by_side.py     # *CURRENT* RAF graphs (side by side)
+│   ├── cat_side_by_side.py     # RAF graphs (side by side)
 │   ├── chi.py                  # calculate chi square statistic
 │   ├── cosine_graphs.py        # plot cosine similarity graphs
 │   ├── iters_img_eval.py       # text-based iteration graphs
