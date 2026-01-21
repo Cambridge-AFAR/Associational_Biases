@@ -1,0 +1,240 @@
+{
+    "1": {
+        "categories": {
+            "age": {
+                "0-2": 212,
+                "20-39": 706,
+                "4-10": 218,
+                "40-69": 141,
+                "70+": 13,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1290
+                }
+            },
+            "ethnicity": {
+                "African-American": 91,
+                "Asian": 119,
+                "Caucasian": 1080,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1290
+                }
+            },
+            "gender": {
+                "Female": 627,
+                "Male": 524,
+                "Unsure": 139,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1290
+                }
+            }
+        },
+        "label": "Surprise"
+    },
+    "2": {
+        "categories": {
+            "age": {
+                "0-2": 13,
+                "20-39": 196,
+                "4-10": 18,
+                "40-69": 48,
+                "70+": 6,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 281
+                }
+            },
+            "ethnicity": {
+                "African-American": 12,
+                "Asian": 33,
+                "Caucasian": 236,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 281
+                }
+            },
+            "gender": {
+                "Female": 157,
+                "Male": 120,
+                "Unsure": 4,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 281
+                }
+            }
+        },
+        "label": "Fear"
+    },
+    "3": {
+        "categories": {
+            "age": {
+                "0-2": 21,
+                "20-39": 472,
+                "4-10": 82,
+                "40-69": 126,
+                "70+": 16,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 717
+                }
+            },
+            "ethnicity": {
+                "African-American": 42,
+                "Asian": 133,
+                "Caucasian": 542,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 717
+                }
+            },
+            "gender": {
+                "Female": 416,
+                "Male": 286,
+                "Unsure": 15,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 717
+                }
+            }
+        },
+        "label": "Disgust"
+    },
+    "4": {
+        "categories": {
+            "age": {
+                "0-2": 356,
+                "20-39": 2258,
+                "4-10": 973,
+                "40-69": 1026,
+                "70+": 159,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 4772
+                }
+            },
+            "ethnicity": {
+                "African-American": 386,
+                "Asian": 779,
+                "Caucasian": 3607,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 4772
+                }
+            },
+            "gender": {
+                "Female": 2811,
+                "Male": 1829,
+                "Unsure": 132,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 4772
+                }
+            }
+        },
+        "label": "Happiness"
+    },
+    "5": {
+        "categories": {
+            "age": {
+                "0-2": 509,
+                "20-39": 709,
+                "4-10": 501,
+                "40-69": 195,
+                "70+": 68,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1982
+                }
+            },
+            "ethnicity": {
+                "African-American": 124,
+                "Asian": 353,
+                "Caucasian": 1505,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1982
+                }
+            },
+            "gender": {
+                "Female": 1062,
+                "Male": 565,
+                "Unsure": 355,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 1982
+                }
+            }
+        },
+        "label": "Sadness"
+    },
+    "6": {
+        "categories": {
+            "age": {
+                "0-2": 9,
+                "20-39": 492,
+                "4-10": 77,
+                "40-69": 120,
+                "70+": 7,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 705
+                }
+            },
+            "ethnicity": {
+                "African-American": 31,
+                "Asian": 58,
+                "Caucasian": 616,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 705
+                }
+            },
+            "gender": {
+                "Female": 235,
+                "Male": 458,
+                "Unsure": 12,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 705
+                }
+            }
+        },
+        "label": "Anger"
+    },
+    "7": {
+        "categories": {
+            "age": {
+                "0-2": 163,
+                "20-39": 1698,
+                "4-10": 302,
+                "40-69": 264,
+                "70+": 97,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 2524
+                }
+            },
+            "ethnicity": {
+                "African-American": 282,
+                "Asian": 437,
+                "Caucasian": 1805,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 2524
+                }
+            },
+            "gender": {
+                "Female": 1254,
+                "Male": 1175,
+                "Unsure": 95,
+                "_metadata": {
+                    "invalid": 0,
+                    "total": 2524
+                }
+            }
+        },
+        "label": "Neutral"
+    }
+}

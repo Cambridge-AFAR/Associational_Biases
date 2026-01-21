@@ -1,0 +1,109 @@
+task_value,bias,bias_category,original_pct,collected_pct
+helping and caring,age,baby,3.12,17.19
+helping and caring,age,child,20.31,25.00
+helping and caring,age,young,21.88,26.56
+helping and caring,age,adult,40.62,29.69
+helping and caring,age,senior,7.81,1.56
+helping and caring,age,unsure,6.25,0.00
+helping and caring,skin tone,darker,3.12,7.81
+helping and caring,skin tone,lighter,87.50,92.19
+helping and caring,skin tone,unsure,9.38,0.00
+helping and caring,gender,female,48.44,57.81
+helping and caring,gender,male,50.00,42.19
+helping and caring,gender,unsure,1.56,0.00
+eating,age,baby,3.23,7.10
+eating,age,child,18.06,10.32
+eating,age,young,33.55,54.84
+eating,age,adult,38.06,25.81
+eating,age,senior,3.87,1.94
+eating,age,unsure,3.23,0.00
+eating,skin tone,darker,11.61,10.32
+eating,skin tone,lighter,83.87,89.68
+eating,skin tone,unsure,4.52,0.00
+eating,gender,female,40.65,51.61
+eating,gender,male,58.06,48.39
+eating,gender,unsure,1.29,0.00
+household,age,baby,11.11,11.11
+household,age,child,22.22,33.33
+household,age,young,22.22,22.22
+household,age,adult,33.33,33.33
+household,age,senior,11.11,0.00
+household,age,unsure,0.00,0.00
+household,skin tone,darker,0.00,0.00
+household,skin tone,lighter,100.00,100.00
+household,skin tone,unsure,0.00,0.00
+household,gender,female,55.56,55.56
+household,gender,male,44.44,44.44
+household,gender,unsure,0.00,0.00
+dance and music,age,baby,0.06,0.00
+dance and music,age,child,0.87,2.19
+dance and music,age,young,33.05,85.78
+dance and music,age,adult,60.50,11.83
+dance and music,age,senior,3.68,0.19
+dance and music,age,unsure,1.84,0.00
+dance and music,skin tone,darker,13.51,20.38
+dance and music,skin tone,lighter,84.75,79.62
+dance and music,skin tone,unsure,1.74,0.00
+dance and music,gender,female,22.80,66.24
+dance and music,gender,male,76.68,33.76
+dance and music,gender,unsure,0.52,0.00
+personal care,age,baby,4.17,0.00
+personal care,age,child,4.17,12.50
+personal care,age,young,41.67,75.00
+personal care,age,adult,41.67,12.50
+personal care,age,senior,4.17,0.00
+personal care,age,unsure,4.17,0.00
+personal care,skin tone,darker,4.17,16.67
+personal care,skin tone,lighter,91.67,83.33
+personal care,skin tone,unsure,4.17,0.00
+personal care,gender,female,66.67,62.50
+personal care,gender,male,29.17,37.50
+personal care,gender,unsure,4.17,0.00
+posing,age,baby,1.66,2.37
+posing,age,child,7.35,5.01
+posing,age,young,41.64,74.16
+posing,age,adult,44.22,17.88
+posing,age,senior,4.13,0.58
+posing,age,unsure,1.00,0.00
+posing,skin tone,darker,10.01,6.93
+posing,skin tone,lighter,88.76,93.07
+posing,skin tone,unsure,1.24,0.00
+posing,gender,female,54.21,64.64
+posing,gender,male,44.89,35.22
+posing,gender,unsure,0.90,0.14
+sports,age,baby,0.00,0.00
+sports,age,child,1.48,5.93
+sports,age,young,49.75,83.36
+sports,age,adult,41.44,10.68
+sports,age,senior,0.62,0.03
+sports,age,unsure,6.71,0.00
+sports,skin tone,darker,26.87,30.79
+sports,skin tone,lighter,70.50,69.21
+sports,skin tone,unsure,2.63,0.00
+sports,gender,female,9.23,19.88
+sports,gender,male,90.13,80.12
+sports,gender,unsure,0.64,0.00
+transportation,age,baby,0.00,0.00
+transportation,age,child,11.28,8.27
+transportation,age,young,27.07,51.88
+transportation,age,adult,46.62,36.09
+transportation,age,senior,6.77,3.76
+transportation,age,unsure,8.27,0.00
+transportation,skin tone,darker,10.53,6.77
+transportation,skin tone,lighter,73.68,93.23
+transportation,skin tone,unsure,15.79,0.00
+transportation,gender,female,32.33,55.64
+transportation,gender,male,65.41,44.36
+transportation,gender,unsure,2.26,0.00
+work,age,baby,0.00,0.62
+work,age,child,2.95,2.80
+work,age,young,29.70,46.66
+work,age,adult,53.81,48.21
+work,age,senior,4.82,1.71
+work,age,unsure,8.71,0.00
+work,skin tone,darker,16.33,7.31
+work,skin tone,lighter,75.27,92.69
+work,skin tone,unsure,8.40,0.00
+work,gender,female,29.39,48.37
+work,gender,male,69.05,51.63
+work,gender,unsure,1.56,0.00

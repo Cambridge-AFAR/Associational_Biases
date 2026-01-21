@@ -1,0 +1,73 @@
+task_value,bias,bias_category,original_pct,collected_pct
+happiness,age,baby,1.07,2.18
+happiness,age,child,8.25,6.21
+happiness,age,young,38.74,75.15
+happiness,age,adult,46.71,15.85
+happiness,age,senior,4.31,0.61
+happiness,age,unsure,0.92,0.00
+happiness,skin tone,darker,11.99,13.55
+happiness,skin tone,lighter,86.92,86.45
+happiness,skin tone,unsure,1.08,0.00
+happiness,gender,female,50.07,77.05
+happiness,gender,male,49.34,22.73
+happiness,gender,unsure,0.59,0.22
+sadness,age,baby,3.07,6.58
+sadness,age,child,15.35,7.46
+sadness,age,young,34.65,60.09
+sadness,age,adult,39.47,23.25
+sadness,age,senior,5.70,2.63
+sadness,age,unsure,1.75,0.00
+sadness,skin tone,darker,16.67,12.28
+sadness,skin tone,lighter,80.26,87.72
+sadness,skin tone,unsure,3.07,0.00
+sadness,gender,female,39.91,60.53
+sadness,gender,male,57.89,38.16
+sadness,gender,unsure,2.19,1.32
+fear,age,baby,0.00,0.00
+fear,age,child,8.82,2.94
+fear,age,young,41.18,79.41
+fear,age,adult,48.53,17.65
+fear,age,senior,1.47,0.00
+fear,age,unsure,0.00,0.00
+fear,skin tone,darker,29.41,25.00
+fear,skin tone,lighter,69.12,75.00
+fear,skin tone,unsure,1.47,0.00
+fear,gender,female,25.00,42.65
+fear,gender,male,75.00,57.35
+fear,gender,unsure,0.00,0.00
+anger,age,baby,0.41,0.82
+anger,age,child,0.41,1.23
+anger,age,young,27.98,79.01
+anger,age,adult,64.61,18.11
+anger,age,senior,4.53,0.82
+anger,age,unsure,2.06,0.00
+anger,skin tone,darker,20.58,17.28
+anger,skin tone,lighter,76.95,82.72
+anger,skin tone,unsure,2.47,0.00
+anger,gender,female,14.40,57.20
+anger,gender,male,85.19,42.39
+anger,gender,unsure,0.41,0.41
+neutral,age,baby,1.37,2.21
+neutral,age,child,5.29,4.69
+neutral,age,young,38.21,70.67
+neutral,age,adult,47.84,21.30
+neutral,age,senior,3.88,1.12
+neutral,age,unsure,3.40,0.01
+neutral,skin tone,darker,16.63,22.15
+neutral,skin tone,lighter,80.53,77.85
+neutral,skin tone,unsure,2.84,0.00
+neutral,gender,female,25.68,58.26
+neutral,gender,male,73.03,41.22
+neutral,gender,unsure,1.29,0.52
+unsure,age,baby,0.72,1.59
+unsure,age,child,6.79,6.79
+unsure,age,young,29.62,64.60
+unsure,age,adult,27.17,25.72
+unsure,age,senior,2.17,1.16
+unsure,age,unsure,33.53,0.14
+unsure,skin tone,darker,13.15,15.03
+unsure,skin tone,lighter,52.60,84.97
+unsure,skin tone,unsure,34.25,0.00
+unsure,gender,female,33.67,52.75
+unsure,gender,male,58.82,47.11
+unsure,gender,unsure,7.51,0.14
